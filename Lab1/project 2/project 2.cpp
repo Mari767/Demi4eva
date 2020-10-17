@@ -1,6 +1,4 @@
-﻿
-
-#include <iostream>
+﻿#include <iostream>
 
 int main()
 {
@@ -18,7 +16,4 @@ int main()
 
     S = sqrt(p * (p - a) * (p - b) * (p - c));
     printf("S=%lf", S);
-
-
-
 }
