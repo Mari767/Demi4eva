@@ -1,0 +1,4 @@
+﻿  project 5.cpp
+D:\репозиторий\GitHub\Demi4eva\Lab1\project 5\project 5.cpp(9,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\репозиторий\GitHub\Demi4eva\Lab1\project 5\project 5.cpp(15,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  project 5.vcxproj -> D:\репозиторий\GitHub\Demi4eva\Lab1\Debug\project 5.exe
