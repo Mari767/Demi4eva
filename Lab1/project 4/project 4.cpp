@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-
 int main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -24,7 +23,4 @@ int main()
 	a = b - a;
 	b = b - a;
 	printf("\na=%d \nb=%d\n", a, b);
-
-
-
 }
