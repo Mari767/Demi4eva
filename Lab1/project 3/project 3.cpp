@@ -1,6 +1,4 @@
-﻿
-
-#include <iostream>
+﻿#include <iostream>
 
 int main()
 {
@@ -18,6 +16,5 @@ int main()
 	printf("%lf в восьмой степени равно %lf", a, b);
 
 	return 0;
-
 
 }
