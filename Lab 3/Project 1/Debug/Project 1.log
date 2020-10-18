@@ -1,0 +1,4 @@
+﻿  Project 1.cpp
+D:\репозиторий\GitHub\Demi4eva\Lab 3\Project 1\Project 1.cpp(23,58): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\репозиторий\GitHub\Demi4eva\Lab 3\Project 1\Project 1.cpp(23,58): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 2
+  Project 1.vcxproj -> D:\репозиторий\GitHub\Demi4eva\Lab 3\Debug\Project 1.exe
