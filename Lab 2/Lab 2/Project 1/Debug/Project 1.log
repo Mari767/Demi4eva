@@ -1,0 +1,5 @@
+﻿  Project 1.cpp
+D:\репозиторий\GitHub\Demi4eva\Lab 2\Lab 2\Project 1\Project 1.cpp(30,8): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "char *"
+D:\репозиторий\GitHub\Demi4eva\Lab 2\Lab 2\Project 1\Project 1.cpp(31,8): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "char *"
+D:\репозиторий\GitHub\Demi4eva\Lab 2\Lab 2\Project 1\Project 1.cpp(32,8): warning C4477: "printf": в строке форматирования "%c" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "char *"
+  Project 1.vcxproj -> D:\репозиторий\GitHub\Demi4eva\Lab 2\Lab 2\Debug\Project 1.exe
